@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "499744643857",
+    "project_id": "hungryhub-61461",
+    "storage_bucket": "hungryhub-61461.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499744643857:android:757ed4b8f34eb043284ab0",
+        "android_client_info": {
+          "package_name": "com.example.hungryhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499744643857-260a60hqmki6pfbp4frr8f7j0iu0ld7u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hungryhub",
+            "certificate_hash": "f36708f4f918ecdd47d09c9e25971e72f25d7879"
+          }
+        },
+        {
+          "client_id": "499744643857-u1mtpq88aeh8fi1gt0lo2seoeqabtljl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACAj8YFqxKHFmTAJoCmxZNqCBRARd8Vxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499744643857-ourkpkfbsf4qrp2s0q0hthrlbentqce4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499744643857:android:4a21b468c1176b90284ab0",
+        "android_client_info": {
+          "package_name": "com.example.hungryhub_adminpanel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499744643857-u1mtpq88aeh8fi1gt0lo2seoeqabtljl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACAj8YFqxKHFmTAJoCmxZNqCBRARd8Vxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499744643857-ourkpkfbsf4qrp2s0q0hthrlbentqce4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
